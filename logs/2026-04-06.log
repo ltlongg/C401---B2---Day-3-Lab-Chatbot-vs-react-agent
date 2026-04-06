@@ -1,0 +1,26 @@
+{"timestamp": "2026-04-06T08:56:34.917349", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T08:56:38.222579", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T13:17:09.625475", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T13:17:16.376945", "event": "AGENT_END", "data": {"steps": 3, "status": "success"}}
+{"timestamp": "2026-04-06T13:40:05.128219", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T13:40:08.930516", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T13:55:27.257638", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T13:55:30.666929", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T13:59:01.841821", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh k\u1ebf to\u00e1n l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T13:59:09.797730", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T14:00:43.272171", "event": "AGENT_START", "data": {"input": "T\u00f4i \u0111\u01b0\u1ee3c 26 \u0111i\u1ec3m th\u00ec \u0111\u1ed7 \u0111\u01b0\u1ee3c v\u00e0o ng\u00e0nh n\u00e0o v\u00e0 tr\u01b0\u1eddng n\u00e0o", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T14:00:50.782245", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T14:07:52.083886", "event": "AGENT_START", "data": {"input": "T\u00f4i \u0111\u01b0\u1ee3c 25.5 \u0111i\u1ec3m, c\u00f3 th\u1ec3 v\u00e0o tr\u01b0\u1eddng n\u00e0o ng\u00e0nh CNTT?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T14:07:57.730052", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T14:09:04.444409", "event": "AGENT_START", "data": {"input": "CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m v\u00e0 c\u00f3 tr\u01b0\u1eddng n\u00e0o d\u01b0\u1edbi 27 kh\u00f4ng?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T14:09:14.458517", "event": "AGENT_END", "data": {"steps": 3, "status": "success"}}
+{"timestamp": "2026-04-06T15:02:41.089709", "event": "AGENT_START", "data": {"input": "T\u00f4i thi \u0111\u01b0\u1ee3c hai m\u01b0\u01a1i b\u1ea3y \u0111i\u1ec3m th\u00ec c\u00f3 th\u1ec3 \u0111\u1eadu v\u00e0o tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc n\u00e0o \u1edf H\u00e0 N\u1ed9i?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T15:02:46.575551", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T16:06:43.294951", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T16:08:17.681787", "event": "AGENT_START", "data": {"input": "T\u00f4i thi \u0111\u01b0\u1ee3c hai m\u01b0\u01a1i b\u1ea3y \u0111i\u1ec3m th\u00ec c\u00f3 th\u1ec3 \u0111\u1eadu v\u00e0o tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc n\u00e0o \u1edf H\u00e0 N\u1ed9i?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T16:09:09.746618", "event": "AGENT_START", "data": {"input": "T\u00f4i thi \u0111\u01b0\u1ee3c hai m\u01b0\u01a1i b\u1ea3y \u0111i\u1ec3m th\u00ec c\u00f3 th\u1ec3 \u0111\u1eadu v\u00e0o tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc n\u00e0o \u1edf H\u00e0 N\u1ed9i?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T16:09:15.084000", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T16:09:34.712176", "event": "AGENT_START", "data": {"input": "Ng\u00e0nh CNTT l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T16:09:38.017649", "event": "AGENT_END", "data": {"steps": 2, "status": "success"}}
+{"timestamp": "2026-04-06T16:10:20.637634", "event": "AGENT_START", "data": {"input": "Logistics l\u1ea5y bao nhi\u00eau \u0111i\u1ec3m v\u00e0 c\u00f3 tr\u01b0\u1eddng n\u00e0o d\u01b0\u1edbi 27 kh\u00f4ng?", "model": "gemini-2.5-flash"}}
+{"timestamp": "2026-04-06T16:10:28.194133", "event": "AGENT_END", "data": {"steps": 3, "status": "success"}}
