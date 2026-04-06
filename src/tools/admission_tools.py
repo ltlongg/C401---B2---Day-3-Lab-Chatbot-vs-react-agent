@@ -1,5 +1,12 @@
 
 TOOLS_CONFIG = [
+     {
+        "name": "tra_cuu_diem",
+        "description": (
+            "Hữu ích khi người dùng muốn biết điểm chuẩn của một ngành cụ thể. "
+            "Tham số 'args' phải là tên ngành viết bằng tiếng Việt (ví dụ: 'Kinh tế', 'Luật')."
+        )
+    },
     {
         "name": "loc_truong_theo_diem",
         "description": (
